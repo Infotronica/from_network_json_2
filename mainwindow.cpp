@@ -27,10 +27,10 @@ MainWindow::MainWindow(QWidget *parent) :
     usr_db="your user"; // the user for this database
     pwd_db="your password"; // the password of user
 
-    urlWS="http://mi-server-de-pruebas.com/for_Navjeet/from_network_json_2/webservice/webservice.php";
-    urlUploadSVG="http://mi-server-de-pruebas.com/for_Navjeet/from_network_json_2/webservice/upload_svg.php";
-    urlDownloadSVG="http://mi-server-de-pruebas.com/for_Navjeet/from_network_json_2/webservice/download_svg.php";
-    urlRemoveSVG="http://mi-server-de-pruebas.com/for_Navjeet/from_network_json_2/webservice/remove_svg.php";
+    urlWS="http://infotronicamx.com/for_Navjeet/from_network_json_2/webservice/webservice.php";
+    urlUploadSVG="http://infotronicamx.com/for_Navjeet/from_network_json_2/webservice/upload_svg.php";
+    urlDownloadSVG="http://infotronicamx.com/for_Navjeet/from_network_json_2/webservice/download_svg.php";
+    urlRemoveSVG="http://infotronicamx.com/for_Navjeet/from_network_json_2/webservice/remove_svg.php";
     remoteFolder="country_flags"; // remote folder for store the svg files
 
     listRecords();

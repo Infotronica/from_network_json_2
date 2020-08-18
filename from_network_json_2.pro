@@ -44,4 +44,8 @@ DISTFILES += \
     webservice/remove_svg.php \
     webservice/upload_svg.php \
     webservice/webservice.php \
-    webservice/webservice_sigle.php
+    webservice/webservice_sigle.php \
+    img/infotronicaH.png
+
+RESOURCES += \
+    appresources.qrc
